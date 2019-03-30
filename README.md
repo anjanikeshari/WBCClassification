@@ -22,8 +22,11 @@ Done! tada
 Local Installation
 Clone the repo
 $ git clone git@github.com:anjanikeshari/WBCClassification.git
+
 Install requirements
+
 $ pip install -r requirements.txt
+
 Make sure you have the following installed:
 
 tensorflow
